@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo, an [IT Professional](www.linkedin.com/in/mreduardogarcia) 😀
+# Hi, I'm Eduardo, an [IT Professional](https//www.linkedin.com/in/mreduardogarcia)😀
 
 ### 👨‍💻 Information Technology Projects:
 
