@@ -1,6 +1,6 @@
-# Hi, I'm Eduardo, an [IT Professional](https://www.linkedin.com/in/mreduardogarcia)😀
+# Hello, world! I'm Eduardo, an [IT Professional](https://www.linkedin.com/in/mreduardogarcia) 👨🏽‍💻
 
-### 👨‍💻 Information Technology Projects:
+### 🖥️ Information Technology Projects:
 
 * **Hybrid AD & Endpoint Management Lab**
   * [Windows Server 2022 & Active Directory Installation](link-to-repo)
