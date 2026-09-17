@@ -3,7 +3,7 @@
 ### 🖥️ Information Technology Projects:
 
 * **Hybrid AD & Endpoint Management Lab**
-  * [Windows Server 2022 & Active Directory Installation](https://github.com/eduardogarciax/hybrid-ad-infrastructure))
+  * [Windows Server 2022 & Active Directory Installation](https://github.com/eduardogarciax/hybrid-ad-infrastructure)
   * [Microsoft Entra Connect Cloud Synchronization](link-to-repo)
   * [Microsoft Intune Device Enrollment](link-to-repo)
   * [Jira Service Management Ticket Lifecycle](link-to-repo)
