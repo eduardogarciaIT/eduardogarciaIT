@@ -9,7 +9,7 @@
   * [3. Active Directory Organizational Units (Identity Management)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#3-active-directory-organizational-units-identity-management)
   * [4. Microsoft Entra Connect (Cloud Synchronization)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#4-microsoft-entra-connect-cloud-synchronization)
   * [5. Microsoft Intune (Endpoint Management and MDM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#5-microsoft-intune-endpoint-management-and-mdm)
-  * [6. ServiceNow IT Service Management (ITSM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#6-servicenow-it-service-management-itsm)
+  * [6. ServiceNow (ITSM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#6-servicenow-itsm)
 * **Microsoft Azure & Cloud Infrastructure**
   * [Provisioning Virtual Machines in Azure](link-to-repo)
   * [Configuring Active Directory Domain Services within Azure VMs](link-to-repo)
