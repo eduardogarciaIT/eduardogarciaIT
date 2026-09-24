@@ -6,7 +6,7 @@
   * [Windows Server 2022 & Active Directory Installation](https://github.com/eduardogarciax/hybrid-ad-infrastructure)
   * [Microsoft Entra Connect Cloud Synchronization](link-to-repo)
   * [Microsoft Intune Device Enrollment](link-to-repo)
-  * [Jira Service Management Ticket Lifecycle](link-to-repo)
+  * [ServiceNow ITSM Incident Lifecycle](link-to-repo)
 * **Microsoft Azure & Cloud Infrastructure**
   * [Provisioning Virtual Machines in Azure](link-to-repo)
   * [Configuring Active Directory Domain Services within Azure VMs](link-to-repo)
