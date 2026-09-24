@@ -2,11 +2,14 @@
 
 ### 🖥️ Information Technology Projects:
 
-* **Hybrid AD & Endpoint Management Lab**
-  * [Windows Server 2022 & Active Directory Installation](https://github.com/eduardogarciax/hybrid-ad-infrastructure)
-  * [Microsoft Entra Connect Cloud Synchronization](link-to-repo)
-  * [Microsoft Intune Device Enrollment](link-to-repo)
-  * [ServiceNow ITSM Incident Lifecycle](link-to-repo)
+* **[Hybrid AD & Endpoint Management Lab](https://github.com/eduardogarciax/hybrid-ad-infrastructure)**
+  * [0. Microsoft Hyper-V (On-Premises Virtualization)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#0-microsoft-hyper-v-on-premises-virtualization)
+  * [1. Windows Server 2022 (Provisioning and Networking)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#1-windows-server-2022-provisioning-and-networking)
+  * [2. Active Directory Domain Services (Domain Promotion)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#2-active-directory-domain-services-domain-promotion)
+  * [3. Active Directory Organizational Units (Identity Management)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#3-active-directory-organizational-units-identity-management)
+  * [4. Microsoft Entra Connect (Cloud Synchronization)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#4-microsoft-entra-connect-cloud-synchronization)
+  * [5. Microsoft Intune (Endpoint Management and MDM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#5-microsoft-intune-endpoint-management-and-mdm)
+  * [6. ServiceNow IT Service Management (ITSM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#6-servicenow-it-service-management-itsm)
 * **Microsoft Azure & Cloud Infrastructure**
   * [Provisioning Virtual Machines in Azure](link-to-repo)
   * [Configuring Active Directory Domain Services within Azure VMs](link-to-repo)
