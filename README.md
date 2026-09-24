@@ -2,7 +2,7 @@
 
 ### 🖥️ Information Technology Projects:
 
-* **[Hybrid AD & Endpoint Management Lab](https://github.com/eduardogarciax/hybrid-ad-infrastructure)**
+* **[Enterprise Hybrid IT Infrastructure Lab](https://github.com/eduardogarciax/hybrid-ad-infrastructure)**
   * [0. Microsoft Hyper-V (On-Premises Virtualization)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#0-microsoft-hyper-v-on-premises-virtualization)
   * [1. Windows Server 2022 (Provisioning and Networking)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#1-windows-server-2022-provisioning-and-networking)
   * [2. Active Directory Domain Services (Domain Promotion)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#2-active-directory-domain-services-domain-promotion)
