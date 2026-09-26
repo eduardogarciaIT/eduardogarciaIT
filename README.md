@@ -10,9 +10,21 @@
   * [Microsoft Entra Connect (Cloud Synchronization)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#4-microsoft-entra-connect-cloud-synchronization)
   * [Microsoft Intune (Endpoint Management and MDM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#5-microsoft-intune-endpoint-management-and-mdm)
   * [ServiceNow (ITSM)](https://github.com/eduardogarciax/hybrid-ad-infrastructure#6-servicenow-itsm)
-* **[User Provisioning & Identity Lifecycle Lab](https://github.com/eduardogarciaIT/identity-lifecycle-lab)** *(In Progress)*
-  * [Active Directory: On-Premises Account Provisioning & De-provisioning](https://github.com/eduardogarciaIT/identity-lifecycle-lab)
-  * [Microsoft Entra ID: Cloud Account Provisioning & De-provisioning](https://github.com/eduardogarciaIT/identity-lifecycle-lab)
+
+* **[Enterprise Active Directory Administration & Security](https://github.com/eduardogarciaIT/Active-Directory-Administration-Security)**
+  * [Active Directory Users and Computers (ADUC) & PowerShell Automation](https://github.com/eduardogarciaIT/Active-Directory-Administration-Security#user-account-provisioning)
+  * [Role-Based Access Control (RBAC) & NTFS File Permissions](https://github.com/eduardogarciaIT/Active-Directory-Administration-Security#role-based-access-control-rbac)
+  * [Group Policy Objects (GPOs) & Network Drive Mapping](https://github.com/eduardogarciaIT/Active-Directory-Administration-Security#group-policy-configuration-drive-mapping)
+  * [Help Desk Operations (Password Resets & Account Unlocks)](https://github.com/eduardogarciaIT/Active-Directory-Administration-Security#help-desk-operations-password-reset--account-recovery)
+  * [Secure User Offboarding & Lifecycle Management](https://github.com/eduardogarciaIT/Active-Directory-Administration-Security#secure-deprovisioning-offboarding)
+
+* **[Microsoft 365 & Entra ID Identity Management](#)** *(In Progress)*
+  * [Cloud Account Provisioning & De-provisioning](#)
+  * [Role Assignments & SaaS Administration](#)
+
+* **[System Administration & OS Deployment](https://github.com/eduardogarciaIT/[OS-REPO-NAME])**
+  * [Configuring Dual-Boot Environments & Partition Management](https://github.com/eduardogarciaIT/[OS-REPO-NAME]#configuring-dual-boot-environments--partition-management)
+  * [Managing File Permissions across Windows and Linux](https://github.com/eduardogarciaIT/[OS-REPO-NAME]#managing-file-permissions-across-windows-and-linux)
 * **System Administration & OS Deployment**
   * [Configuring Dual-Boot Environments & Partition Management](link-to-repo)
   * [Managing File Permissions across Windows and Linux](link-to-repo)
